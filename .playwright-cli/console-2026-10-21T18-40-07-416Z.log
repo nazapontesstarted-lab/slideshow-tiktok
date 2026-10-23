@@ -1,0 +1,2 @@
+[  -40290ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/i/jf/onboarding/web?mode=login:0
+[  -34368ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://x.com/i/jf/onboarding/web?mode=login:0

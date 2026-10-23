@@ -1,0 +1,42 @@
+
+[
+  {
+    "tema": "Organização de documentos",
+    "slides": [
+      {"titulo": "Seus documentos estão uma bagunça?", "texto": "Organização simples ajuda a economizar tempo e evitar retrabalho."},
+      {"titulo": "1. Separe por categoria", "texto": "Crie grupos para contratos, recibos, cadastros e documentos fiscais."},
+      {"titulo": "2. Padronize os nomes", "texto": "Use nomes claros e datas no formato AAAA-MM-DD."},
+      {"titulo": "3. Crie uma pasta de entrada", "texto": "Reúna arquivos novos em um local e organize-os regularmente."},
+      {"titulo": "4. Proteja seus arquivos", "texto": "Controle os acessos e mantenha cópias de segurança."},
+      {"titulo": "5. Revise toda semana", "texto": "Reserve alguns minutos para arquivar documentos pendentes."},
+      {"titulo": "Comece pelo básico", "texto": "Escolha poucas categorias e ajuste o sistema conforme sua necessidade."},
+      {"titulo": "Salve este guia", "texto": "Escolha uma dica e coloque em prática ainda hoje."}
+    ]
+  },
+  {
+    "tema": "Checklist para pequenos negócios",
+    "slides": [
+      {"titulo": "Seu negócio está organizado?", "texto": "Um checklist simples ajuda a identificar tarefas importantes."},
+      {"titulo": "1. Confira os pagamentos", "texto": "Registre contas a pagar e valores a receber."},
+      {"titulo": "2. Organize os comprovantes", "texto": "Guarde recibos e notas em locais fáceis de consultar."},
+      {"titulo": "3. Atualize os cadastros", "texto": "Revise os dados de clientes e fornecedores quando necessário."},
+      {"titulo": "4. Revise os prazos", "texto": "Mantenha uma lista de compromissos e datas importantes."},
+      {"titulo": "5. Proteja os dados", "texto": "Limite o acesso a informações comerciais e pessoais."},
+      {"titulo": "Crie uma rotina", "texto": "Defina um dia da semana para revisar as pendências."},
+      {"titulo": "Salve para consultar", "texto": "Use este checklist como ponto de partida para sua rotina."}
+    ]
+  },
+  {
+    "tema": "Doc para novos clientes",
+    "slides": [
+      {"titulo": "Novo cliente? Prepare tudo", "texto": "Uma lista de conferência ajuda a padronizar o atendimento."},
+      {"titulo": "1. Registre os dados necessários", "texto": "Solicite apenas as informações relevantes para o serviço."},
+      {"titulo": "2. Confirme o escopo", "texto": "Documente o que foi combinado e quais entregas são esperadas."},
+      {"titulo": "3. Registre os prazos", "texto": "Anote datas, responsáveis e etapas importantes."},
+      {"titulo": "4. Organize os arquivos", "texto": "Use uma pasta própria com acesso restrito."},
+      {"titulo": "5. Confirme o recebimento", "texto": "Verifique se os documentos necessários foram recebidos."},
+      {"titulo": "6. Revise antes de começar", "texto": "Confira se as informações estão completas e consistentes."},
+      {"titulo": "Padronize seu processo", "texto": "Adapte esta lista às necessidades reais do seu negócio."}
+    ]
+  }
+]

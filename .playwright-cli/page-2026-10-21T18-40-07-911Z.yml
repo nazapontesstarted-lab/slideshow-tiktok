@@ -1,0 +1,417 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=e6]:
+        - button "Skip to home timeline" [ref=e7] [cursor=pointer]
+        - button "Skip to trending" [ref=e9] [cursor=pointer]
+        - banner [ref=e11]:
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - heading [level=1] [ref=e16] [cursor=pointer]:
+                - link "X" [ref=e17]:
+                  - /url: /home
+              - navigation "Primary" [ref=e23]:
+                - link "Home" [ref=e24] [cursor=pointer]:
+                  - /url: /home
+                - link "Search and explore" [ref=e30] [cursor=pointer]:
+                  - /url: /explore
+                - link "Notifications (1 unread notification)" [ref=e36] [cursor=pointer]:
+                  - /url: /notifications
+                  - generic "1 unread items" [ref=e42]: "1"
+                - link "Direct Messages" [ref=e44] [cursor=pointer]:
+                  - /url: /i/chat
+                - link "Calls" [ref=e50] [cursor=pointer]:
+                  - /url: /i/calls
+                - link "Grok" [ref=e56] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic "undefined unread items" [ref=e62]
+                - link "Profile" [ref=e63] [cursor=pointer]:
+                  - /url: /AlexanderM71609
+                - button "More menu items" [ref=e69] [cursor=pointer]
+              - link "Post" [ref=e76] [cursor=pointer]:
+                - /url: /compose/post
+            - button "Account menu" [ref=e84] [cursor=pointer]:
+              - generic [ref=e92]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "Nazareno_Pj":
+                        - img "Nazareno_Pj"
+        - main [ref=e95]:
+          - generic [ref=e98]:
+            - generic "Home timeline" [ref=e100]:
+              - generic [ref=e101]:
+                - generic [ref=e104]:
+                  - navigation [ref=e106]:
+                    - generic [ref=e107]:
+                      - generic:
+                        - button "Previous" [disabled]
+                      - tablist [ref=e109]:
+                        - tab "For you" [selected] [ref=e110] [cursor=pointer]
+                        - tab "Following" [ref=e115] [cursor=pointer]
+                      - generic:
+                        - button "Next" [disabled]
+                  - button "Manage timelines" [ref=e120] [cursor=pointer]
+                - generic:
+                  - generic:
+                    - status:
+                      - button [aria-hidden]:
+                        - generic: See new posts
+              - generic [ref=e131]:
+                - link [ref=e140] [cursor=pointer]:
+                  - /url: /AlexanderM71609
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic "Nazareno_Pj":
+                          - img "Nazareno_Pj"
+                - generic [ref=e143]:
+                  - generic [ref=e161]:
+                    - generic [ref=e162]: What’s happening?
+                    - textbox "Post text" [ref=e165]
+                  - generic [ref=e172]:
+                    - navigation [ref=e173]:
+                      - generic [ref=e174]:
+                        - generic:
+                          - button "Previous" [disabled]
+                        - tablist [ref=e176]:
+                          - generic [ref=e179]:
+                            - button "Choose File" [ref=e180]
+                            - button "Add photos or video" [ref=e181] [cursor=pointer]
+                          - button "Add a GIF" [ref=e189] [cursor=pointer]
+                          - button "Add poll" [ref=e197] [cursor=pointer]
+                          - button "Add emoji" [ref=e205] [cursor=pointer]
+                          - button "Schedule post" [ref=e213] [cursor=pointer]
+                          - button "Tag location" [disabled] [ref=e220]
+                          - button "Content disclosure" [ref=e227] [cursor=pointer]
+                        - generic:
+                          - button "Next" [disabled]
+                    - button "Post" [disabled] [ref=e234]
+              - region [ref=e240]:
+                - heading "Your Home Timeline" [level=1] [ref=e241]
+                - 'generic "Timeline: Your Home Timeline" [ref=e242]':
+                  - generic [ref=e243]:
+                    - article "໊ Verified account @christianyun Oct 20 we mathematically visualized 4,512,189 TikToks to find out if UGC going viral is luck. it's not. and it's not the format either. Embedded video 1:19 Unmute Lightreel AI 33 replies, 62 reposts, 1516 likes, 2474 bookmarks, 134616 views" [ref=e247] [cursor=pointer]:
+                      - generic [ref=e253]:
+                        - link [aria-hidden] [ref=e265]:
+                          - /url: /christianyun
+                        - generic [ref=e268]:
+                          - generic [ref=e270]:
+                            - generic [ref=e273]:
+                              - link [ref=e276]:
+                                - /url: /christianyun
+                                - generic [ref=e277]:
+                                  - generic: ໊
+                                  - img "Verified account" [ref=e280]
+                              - generic [ref=e284]:
+                                - link "@christianyun" [ref=e286]:
+                                  - /url: /christianyun
+                                - generic [aria-hidden] [ref=e288]: ·
+                                - link "Oct 20" [ref=e291]:
+                                  - /url: /christianyun/status/2112588136597631304
+                                  - time [ref=e292]: Oct 20
+                            - generic [ref=e294]:
+                              - button "Grok actions" [ref=e296]
+                              - button "More" [ref=e307]
+                          - generic [ref=e314]: we mathematically visualized 4,512,189 TikToks to find out if UGC going viral is luck. it's not. and it's not the format either.
+                          - generic [ref=e319]:
+                            - generic [ref=e332]:
+                              - generic "Embedded video" [ref=e335]
+                              - generic [ref=e337]:
+                                - generic:
+                                  - generic: 1:19
+                                  - button "Unmute" [ref=e342]
+                            - link "Lightreel AI" [ref=e349]:
+                              - /url: /christianyun/status/2112588136597631304/media_tags
+                          - group "33 replies, 62 reposts, 1516 likes, 2474 bookmarks, 134616 views" [ref=e353]:
+                            - button "33 Replies. Reply" [ref=e355]:
+                              - generic [ref=e356]: "33"
+                            - button "62 reposts. Repost" [ref=e366]:
+                              - generic [ref=e367]: "62"
+                            - button "1516 Likes. Like" [ref=e377]:
+                              - generic [ref=e378]: 1.5K
+                            - link "134616 views. View post analytics" [ref=e388]:
+                              - /url: /christianyun/status/2112588136597631304/analytics
+                              - generic [ref=e389]: 134K
+                            - button "Bookmark" [ref=e399]
+                            - button "Share post" [ref=e408]
+                    - article "Starlink Verified account @Starlink A Starlink proporciona internet estável de alta velocidade para streaming, chamadas de vídeo, jogos on-line e muito mais. Faça o pedido on-line. É fácil e leva menos de dois minutos. starlink.com Pedir agora From starlink.com 2784 replies, 1599 reposts, 19003 likes, 2463 bookmarks, 328226529 views" [ref=e427] [cursor=pointer]:
+                      - generic [ref=e433]:
+                        - link [ref=e445]:
+                          - /url: /Starlink
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic "Square profile picture":
+                                  - img "Square profile picture"
+                        - generic [ref=e448]:
+                          - generic [ref=e450]:
+                            - generic [ref=e453]:
+                              - link "Starlink Verified account" [ref=e456]:
+                                - /url: /Starlink
+                                - generic [ref=e457]:
+                                  - generic [ref=e458]: Starlink
+                                  - generic [ref=e461]:
+                                    - img "Verified account" [ref=e462]
+                                    - link [ref=e468]
+                              - link "@Starlink" [ref=e478]:
+                                - /url: /Starlink
+                            - generic [ref=e481]:
+                              - generic [ref=e482]: Ad
+                              - button "More" [ref=e486]
+                          - generic [ref=e493]: A Starlink proporciona internet estável de alta velocidade para streaming, chamadas de vídeo, jogos on-line e muito mais. Faça o pedido on-line. É fácil e leva menos de dois minutos.
+                          - generic [ref=e495]:
+                            - link "starlink.com Pedir agora" [ref=e498]:
+                              - /url: https://www.starlink.com/br/roam?referral=RC-481123-97289-21&utm_source=twitter&utm_medium=paid&utm_campaign=sls_br_soc_twt_bro_dem&utm_content=sls_br_soc_twt_bro_dem_rom_msr_v4m_stc_pt-br_egn-dune-499&twclid=2f4qt5459z4wwwdytkivnalbuv
+                              - generic [ref=e504]: Pedir agora
+                            - link "From starlink.com" [ref=e507]:
+                              - /url: https://www.starlink.com/br/roam?referral=RC-481123-97289-21&utm_source=twitter&utm_medium=paid&utm_campaign=sls_br_soc_twt_bro_dem&utm_content=sls_br_soc_twt_bro_dem_rom_msr_v4m_stc_pt-br_egn-dune-499&twclid=2f4qt5459z4wwwdytkivnalbuv
+                          - group "2784 replies, 1599 reposts, 19003 likes, 2463 bookmarks, 328226529 views" [ref=e510]:
+                            - button "2784 Replies. Reply" [ref=e512]:
+                              - generic [ref=e513]: 2.7K
+                            - button "1599 reposts. Repost" [ref=e523]:
+                              - generic [ref=e524]: 1.5K
+                            - button "19003 Likes. Like" [ref=e534]:
+                              - generic [ref=e535]: 19K
+                            - link "328226529 views. View post analytics" [ref=e545]:
+                              - /url: /Starlink/status/2101182623846641690/analytics
+                              - generic [ref=e546]: 328M
+                            - button "Bookmark" [ref=e556]
+                            - button "Share post" [ref=e565]
+                    - article "Alex Vech Verified account @VechAlex 1 hour ago looking for a proven market to build in? here are 20 app niches where people are already spending!! I searched the library and put together this shortlist, from AI assistants to phone cleaners and bible apps. a useful place to start checking demand before committing to an idea. Image 2 reposts, 7 likes, 13 bookmarks, 338 views" [ref=e575] [cursor=pointer]:
+                      - generic [ref=e581]:
+                        - link [aria-hidden] [ref=e593]:
+                          - /url: /VechAlex
+                        - generic [ref=e596]:
+                          - generic [ref=e598]:
+                            - generic [ref=e601]:
+                              - link "Alex Vech Verified account" [ref=e604]:
+                                - /url: /VechAlex
+                                - generic [ref=e605]:
+                                  - generic [ref=e606]: Alex Vech
+                                  - img "Verified account" [ref=e610]
+                              - generic [ref=e614]:
+                                - link "@VechAlex" [ref=e616]:
+                                  - /url: /VechAlex
+                                - generic [aria-hidden] [ref=e618]: ·
+                                - link "1 hour ago" [ref=e620]:
+                                  - /url: /VechAlex/status/2112958273267863598
+                                  - time [ref=e621]: 1h
+                            - generic [ref=e623]:
+                              - button "Grok actions" [ref=e625]
+                              - button "More" [ref=e636]
+                          - generic [ref=e643]: looking for a proven market to build in? here are 20 app niches where people are already spending!! I searched the library and put together this shortlist, from AI assistants to phone cleaners and bible apps. a useful place to start checking demand before committing to an idea.
+                          - link [ref=e652]:
+                            - /url: /VechAlex/status/2112958273267863598/photo/1
+                            - generic "Image" [ref=e656]:
+                              - img "Image" [ref=e658]
+                          - group "2 reposts, 7 likes, 13 bookmarks, 338 views" [ref=e661]:
+                            - button "0 Replies. Reply" [ref=e663]
+                            - button "2 reposts. Repost" [ref=e674]:
+                              - generic [ref=e675]: "2"
+                            - button "7 Likes. Like" [ref=e685]:
+                              - generic [ref=e686]: "7"
+                            - link "338 views. View post analytics" [ref=e696]:
+                              - /url: /VechAlex/status/2112958273267863598/analytics
+                              - generic [ref=e697]: "338"
+                            - button "Bookmark" [ref=e707]
+                            - button "Share post" [ref=e716]
+                    - article "Ethan Cajigas Verified account @aureliuscajigas 3 hours ago THIS IS WAY TOO CRAZY 💀 this app made $500K last month by putting people into fake photos you upload a picture and the app uses AI to generate different outfits, scenes, and versions of yourself technically none of the pictures ever actually happened people still pay because Embedded video Play Video. 13 seconds long 1 reply, 1 bookmark, 121 views" [ref=e726] [cursor=pointer]:
+                      - generic [ref=e732]:
+                        - link [aria-hidden] [ref=e744]:
+                          - /url: /aureliuscajigas
+                        - generic [ref=e747]:
+                          - generic [ref=e749]:
+                            - generic [ref=e752]:
+                              - link "Ethan Cajigas Verified account" [ref=e755]:
+                                - /url: /aureliuscajigas
+                                - generic [ref=e756]:
+                                  - generic [ref=e757]: Ethan Cajigas
+                                  - img "Verified account" [ref=e761]
+                              - generic [ref=e765]:
+                                - link "@aureliuscajigas" [ref=e767]:
+                                  - /url: /aureliuscajigas
+                                - generic [aria-hidden] [ref=e769]: ·
+                                - link "3 hours ago" [ref=e771]:
+                                  - /url: /aureliuscajigas/status/2112921852343459877
+                                  - time [ref=e772]: 3h
+                            - generic [ref=e774]:
+                              - button "Grok actions" [ref=e776]
+                              - button "More" [ref=e787]
+                          - generic [ref=e794]:
+                            - generic [ref=e795]:
+                              - text: THIS IS WAY TOO CRAZY
+                              - img "💀" [ref=e796]
+                              - text: this app made $500K last month by putting people into fake photos you upload a picture and the app uses AI to generate different outfits, scenes, and versions of yourself technically none of the pictures ever actually happened people still pay because
+                            - button "Show more" [ref=e797]
+                          - generic [ref=e814]:
+                            - generic "Embedded video" [ref=e817]
+                            - button "Play Video. 13 seconds long" [ref=e824]
+                          - group "1 reply, 1 bookmark, 121 views" [ref=e831]:
+                            - button "1 Reply. Reply" [ref=e833]:
+                              - generic [ref=e834]: "1"
+                            - button "0 reposts. Repost" [ref=e844]
+                            - button "0 Likes. Like" [ref=e855]
+                            - link "121 views. View post analytics" [ref=e866]:
+                              - /url: /aureliuscajigas/status/2112921852343459877/analytics
+                              - generic [ref=e867]: "121"
+                            - button "Bookmark" [ref=e877]
+                            - button "Share post" [ref=e886]
+            - generic "Trending" [ref=e897]:
+              - generic [ref=e898]:
+                - search "Search" [ref=e903]:
+                  - combobox "Search query" [ref=e915]
+                - complementary "Subscribe to Premium" [ref=e919]:
+                  - generic [ref=e922]: Get rid of ads, see your analytics, boost your replies and unlock 20+ features.
+                  - link "Subscribe" [ref=e923] [cursor=pointer]:
+                    - /url: /i/premium_sign_up
+                - generic [ref=e927]:
+                  - heading "Live on X" [level=2] [ref=e929]
+                  - 'button "Broadcast, OpenClaw🦞 is hosting, Hosted by OpenClaw🦞, NVIDIA RTX Spark: Local AI, Unlocked | The ClawCast Episode 14, OpenClaw🦞 joined" [ref=e932] [cursor=pointer]':
+                    - generic [ref=e933]:
+                      - generic [ref=e937]:
+                        - generic [ref=e949]:
+                          - text: OpenClaw
+                          - img "🦞" [ref=e950]
+                        - img "Verified account" [ref=e953]
+                      - text: is hosting
+                    - generic [ref=e959]:
+                      - generic [ref=e960]: "NVIDIA RTX Spark: Local AI, Unlocked | The ClawCast Episode 14"
+                      - generic [ref=e968]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic "Square profile picture":
+                                            - img "Square profile picture"
+                        - generic [ref=e969]: "+610"
+                - generic [ref=e974]:
+                  - heading "Today’s News Close" [level=2] [ref=e976]:
+                    - generic [ref=e977]: Today’s News
+                    - button "Close" [ref=e980] [cursor=pointer]
+                  - generic [ref=e985]:
+                    - link "Google's AI Agents Build Their Own Specialized Operating Systems Trending now · Other · 143 posts" [ref=e986] [cursor=pointer]:
+                      - generic [ref=e989]:
+                        - generic [ref=e990]: Google's AI Agents Build Their Own Specialized Operating Systems
+                        - generic [ref=e991]: Trending now · Other · 143 posts
+                    - link "Claude Opus 5.5 Powers Full Animations and Films for Creators 1 day ago · Other · 2,439 posts" [ref=e1030] [cursor=pointer]:
+                      - generic [ref=e1033]:
+                        - generic [ref=e1034]: Claude Opus 5.5 Powers Full Animations and Films for Creators
+                        - generic [ref=e1035]: 1 day ago · Other · 2,439 posts
+                    - link "Indie Dev Adds Startup Fundraising Mission to GTA San Andreas with AI 14 hours ago · Entertainment · 1,669 posts" [ref=e1074] [cursor=pointer]:
+                      - generic [ref=e1077]:
+                        - generic [ref=e1078]: Indie Dev Adds Startup Fundraising Mission to GTA San Andreas with AI
+                        - generic [ref=e1079]: 14 hours ago · Entertainment · 1,669 posts
+                - region [ref=e1119]:
+                  - heading "Trending now" [level=1] [ref=e1120]
+                  - 'generic "Timeline: Trending now" [ref=e1121]':
+                    - generic [ref=e1122]:
+                      - heading "What’s happening" [level=2] [ref=e1126]
+                      - 'link "Politics · Trending #QuemEMarianaFlavio More" [ref=e1130] [cursor=pointer]':
+                        - generic [ref=e1131]:
+                          - generic [ref=e1132]: Politics · Trending
+                          - generic [ref=e1134]: "#QuemEMarianaFlavio"
+                          - button "More" [ref=e1138]
+                      - link "Trending $NFLX More" [ref=e1147] [cursor=pointer]:
+                        - generic [ref=e1148]:
+                          - generic [ref=e1149]: Trending
+                          - generic [ref=e1151]: $NFLX
+                          - button "More" [ref=e1154]
+                      - link "Politics · Trending Angélica More" [ref=e1163] [cursor=pointer]:
+                        - generic [ref=e1164]:
+                          - generic [ref=e1165]: Politics · Trending
+                          - generic [ref=e1167]: Angélica
+                          - button "More" [ref=e1170]
+                      - link "Politics · Trending JUSTIÇA POR ANA CLARA More" [ref=e1179] [cursor=pointer]:
+                        - generic [ref=e1180]:
+                          - generic [ref=e1181]: Politics · Trending
+                          - generic [ref=e1183]: JUSTIÇA POR ANA CLARA
+                          - button "More" [ref=e1186]
+                      - link "Show more" [ref=e1195] [cursor=pointer]:
+                        - /url: /explore/tabs/for-you
+                - complementary "Who to follow" [ref=e1199]:
+                  - heading "Who to follow" [level=2] [ref=e1201]
+                  - list [ref=e1203]:
+                    - listitem [ref=e1204] [cursor=pointer]:
+                      - generic [ref=e1205]:
+                        - link [aria-hidden] [ref=e1215]:
+                          - /url: /KinGao476942
+                        - generic [ref=e1219]:
+                          - generic [ref=e1221]:
+                            - link [ref=e1223]:
+                              - /url: /KinGao476942
+                              - generic [ref=e1224]:
+                                - generic [ref=e1225]: Kin
+                                - img "Verified account" [ref=e1229]
+                            - link "@KinGao476942" [ref=e1234]:
+                              - /url: /KinGao476942
+                          - button "Follow @KinGao476942" [ref=e1238]:
+                            - generic [ref=e1239]: Follow
+                    - listitem [ref=e1242] [cursor=pointer]:
+                      - generic [ref=e1243]:
+                        - link [aria-hidden] [ref=e1253]:
+                          - /url: /sunra_ai
+                        - generic [ref=e1257]:
+                          - generic [ref=e1259]:
+                            - link [ref=e1261]:
+                              - /url: /sunra_ai
+                              - generic [ref=e1262]:
+                                - generic [ref=e1263]: Sunra
+                                - img "Verified account" [ref=e1267]
+                            - link "@sunra_ai" [ref=e1272]:
+                              - /url: /sunra_ai
+                          - button "Follow @sunra_ai" [ref=e1276]:
+                            - generic [ref=e1277]: Follow
+                    - listitem [ref=e1280] [cursor=pointer]:
+                      - generic [ref=e1281]:
+                        - link [aria-hidden] [ref=e1291]:
+                          - /url: /pmarca
+                        - generic [ref=e1295]:
+                          - generic [ref=e1297]:
+                            - link [ref=e1299]:
+                              - /url: /pmarca
+                              - generic [ref=e1300]:
+                                - generic [ref=e1302]:
+                                  - text: Marc Andreessen
+                                  - img "🇺🇸" [ref=e1303]
+                                - generic [ref=e1305]:
+                                  - img "Verified account" [ref=e1306]
+                                  - link [ref=e1309]
+                            - link "@pmarca" [ref=e1318]:
+                              - /url: /pmarca
+                          - button "Follow @pmarca" [ref=e1322]:
+                            - generic [ref=e1323]: Follow
+                  - link "Show more" [ref=e1326] [cursor=pointer]:
+                    - /url: /i/connect_people?user_id=1960294084934868992
+                - navigation "Footer" [ref=e1329]:
+                  - generic [ref=e1330]:
+                    - link "Terms" [ref=e1331] [cursor=pointer]:
+                      - /url: https://x.com/tos
+                    - generic [ref=e1332]: ·
+                  - generic [ref=e1333]:
+                    - link "Privacy" [ref=e1334] [cursor=pointer]:
+                      - /url: https://x.com/privacy
+                    - generic [ref=e1335]: ·
+                  - generic [ref=e1336]:
+                    - link "Cookies" [ref=e1337] [cursor=pointer]:
+                      - /url: https://support.x.com/articles/20170514
+                    - generic [ref=e1338]: ·
+                  - generic [ref=e1339]:
+                    - link "Accessibility" [ref=e1340] [cursor=pointer]:
+                      - /url: https://help.x.com/resources/accessibility
+                    - generic [ref=e1341]: ·
+                  - generic [ref=e1342]:
+                    - link "Ads Info" [ref=e1343] [cursor=pointer]:
+                      - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+                    - generic [ref=e1344]: ·
+                  - button "More" [ref=e1345] [cursor=pointer]
+                  - generic [ref=e1350]: © 2026 X Corp.
